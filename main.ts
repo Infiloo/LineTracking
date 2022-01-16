@@ -1,3 +1,10 @@
+/**
+ * Delfine Stamm Thema
+ * 
+ * Roboter von:
+ * 
+ * Leo und Hla
+ */
 function LineTracking22 () {
     trackingValues = Rover.LineTracking()
     if (trackingValues == 2 || trackingValues == 5) {
